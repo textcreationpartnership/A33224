@@ -1,0 +1,513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The summ of a conference on Feb. 21, 1686, between Dr. Clagett, and Father Gooden, about the point of transubstantiation</title>
+            <author>Clagett, William, 1646-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33224</idno>
+            <idno type="STC">Wing C4401</idno>
+            <idno type="STC">ESTC R7092</idno>
+            <idno type="EEBO-CITATION">12950740</idno>
+            <idno type="OCLC">ocm 12950740</idno>
+            <idno type="VID">95894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95894)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The summ of a conference on Feb. 21, 1686, between Dr. Clagett, and Father Gooden, about the point of transubstantiation</title>
+                  <author>Clagett, William, 1646-1688.</author>
+                  <author>Gooden, Peter, d. 1695.</author>
+               </titleStmt>
+               <extent>xi, 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [ii]</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Leigh Rupinski</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Leigh Rupinski</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95894:1"/>
+            <pb facs="tcp:95894:1" rendition="simple:additions"/>
+            <p>THE SUMM OF A CONFERENCE On <hi>Feb.</hi> 21. 1686.</p>
+            <p>BETWEEN Dr. <hi>Clagett,</hi> and Father <hi>Gooden,</hi> About the Point of <hi>TRANS<g ref="char:V">Ʋ</g>BSTANTIATION.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Rogers,</hi> at the <hi>Sun</hi> over-againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:95894:2"/>
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> vi. <hi>l.</hi> 4. <hi>for</hi> me <hi>r.</hi> us. <hi>ib. l.</hi> 6. <hi>for</hi> me <hi>r.</hi> us. <hi>p.</hi> viii <hi>l.</hi> 4. <hi>r.</hi> a greater thing than the Repreſenters anſwer<g ref="char:EOLhyphen"/>ing, <hi>&amp;c. p.</hi> 2. <hi>after l.</hi> 13. <hi>add,</hi> Now againſt This, I thus argue, <hi>p.</hi> 2. <hi>l.</hi> 14. <hi>add in the beginning</hi> Dr.</p>
+         </div>
+         <div type="introduction">
+            <pb n="iii" facs="tcp:95894:2"/>
+            <head>The SUM of a CONFERENCE On <hi>Feb.</hi> 21. 1686. BETWEEN Dr. <hi>Clagett,</hi> and Father <hi>Gooden,</hi> About the POINT of TRANSUBSTANTIATION.</head>
+            <head>Introduction.</head>
+            <p>IT will perhaps appear to ſome a lit<g ref="char:EOLhyphen"/>tle <hi>ſtrange,</hi> that I do not ſay almoſt <hi>Incredible,</hi> that there ſhould have paſs'd a <hi>Conference</hi> above two years ſince, in which Mr. <hi>Gooden</hi> was concern'd, and the World yet to learn the Subſtance of it. The Vanity of that Gentleman to thruſt himſelf upon all Occaſi<g ref="char:EOLhyphen"/>ons into <hi>Diſputes</hi> with the <hi>moſt Learned
+<pb n="iv" facs="tcp:95894:3"/> Men</hi> of our <hi>Church</hi> firſt, and then to boaſt of his own Performances in them, was ſo great, that there is ſcarce a <hi>Coffee-houſe</hi> in the <hi>Town</hi> that has not been filled with the Noiſe of his Impertinent Vapours. And if thoſe of the <hi>Other Communion</hi> have been always remarkable for an <hi>Aſſurance</hi> becoming the <hi>pretended Infallibility</hi> of their <hi>Church;</hi> I may venture to ſay, that next to <hi>Father P—</hi> the <hi>Jeſuit,</hi> and his friend Mr. <hi>M—,</hi> I ſcarce know any among them that have ever talk'd ſo loud, or made ſuch <hi>Heroical Defi<g ref="char:EOLhyphen"/>ances</hi> of the <hi>Champions</hi> and <hi>Armies</hi> of our <hi>Iſrael,</hi> in all Places, and upon all Oc<g ref="char:EOLhyphen"/>caſions, as Mr. <hi>Gooden</hi> theſe late Years has done am ng us. But thus <hi>ſhallow Wa<g ref="char:EOLhyphen"/>ters</hi> always run with the Greatest <hi>Noiſe</hi> and <hi>Violence;</hi> and <hi>little Sophiſters,</hi> who either want <hi>Capacity</hi> to ſee into their own <hi>Falla<g ref="char:EOLhyphen"/>cies,</hi> or think they have forehead enough to c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rry that off with <hi>Clamour</hi> and <hi>Confi<g ref="char:EOLhyphen"/>dence</hi> which they cannot do by <hi>Reaſon</hi> and <hi>Argument,</hi> delight to expoſe themſelves and their Religi n to the moſt dangerous Tryals; whilſt Men of <hi>Learning</hi> and <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> are modeſt and ingenuous, and know it to be neither for the <hi>Honour</hi> of their <hi>Church,</hi> nor their own <hi>Reputation,</hi> to chal<g ref="char:EOLhyphen"/>lenge all Mankind to anſwer <hi>Paradoxes,</hi> and to ſhew that not to be <hi>Demonſtration,</hi>
+               <pb n="v" facs="tcp:95894:3"/> which when brought to the Tryal is hardly ſence.<note place="margin">See Mr. G's. Pap.</note>
+            </p>
+            <p>I hope will this not be thought too ſevere a <hi>Reflection</hi> on the late <hi>Pretenders</hi> of this kind among us, which I ſpeak out of a juſt reſpect to the more Learned and Charitable Perſons of the <hi>Church</hi> of <hi>Rome;</hi> who have been no leſs Scandalized at theſe f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>ward Zealots, than our ſelves; and to whom I ought to give this Teſtimony, That during a long acquaintance with many of them, I never met with any thing of the <hi>Vanity</hi> of thoſe I have before mentioned. Our <hi>Differences</hi> in matters of <hi>Religion,</hi> made no Diſturbance either in our <hi>Friendſhip</hi> or <hi>Converſation</hi> with One Another. If the diſcourſe at any time led to a <hi>Controverſie</hi> of <hi>Faith,</hi> we argu'd it upon the ſame Prin<g ref="char:EOLhyphen"/>ciples, and with the ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Calmneſs,</hi> that we did any other <hi>Subject</hi> whatſoever; by Arguments drawn from the <hi>Authority</hi> of the <hi>Holy Scriptures,</hi> or from the <hi>Teſtim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> of the <hi>Ancient Fathers,</hi> as the <hi>Nature</hi> of the thing required us to do. I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe did not <hi>Convince,</hi> they never flew off to the <hi>Common Place Topic's</hi> of the <hi>Authority</hi> and <hi>Infallibility</hi> of the <hi>Church;</hi> m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch leſs to that Exploded refuge of <hi>Oral Tradition;</hi> but the <hi>Controverſie</hi> Ended. And when all was done, they were content to h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe well
+<pb n="vi" facs="tcp:95894:4"/> of thoſe of our <hi>Church,</hi> who being ſincere in their Enquiries, and willing to be led by Truth whereever it was, ſtill continued to differ from them. Inſtead of calling Me a <hi>Heretick</hi> or <hi>Schiſmatick,</hi> or Thundring out <hi>Damnation</hi> againſt Me as ſuch, a mutual <hi>Charity</hi> concluded the diſcourſe. We ho<g ref="char:EOLhyphen"/>ped and prayed for the Conviction of the <hi>Er<g ref="char:EOLhyphen"/>ring Party,</hi> which ever it was; but made no question, but that the ſame Heaven might receive us All, tho we ſhould continue to diſagree to the last.</p>
+            <p>But this was not the Temper of Mr. <hi>Gooden,</hi> and the reſt of the little Herd of that <hi>Church,</hi> who gave ſo much Trouble and Diſturbance to their own and the Nati<g ref="char:EOLhyphen"/>ons repoſe; and have contributed what in them lies by their Heat and Folly, to ruine both themſelves and u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>As for the <hi>Occaſion</hi> of the preſent <hi>Conference,</hi> it was this. A <hi>Gentlewo<g ref="char:EOLhyphen"/>man</hi> of a Good Estate, and intimately ac<g ref="char:EOLhyphen"/>quainted with divers R. Cs. was by a fre<g ref="char:EOLhyphen"/>quent Converſation with them, wrought up by degrees into an Extraordinary Opinion of the advantages of a <hi>Recluſe Life,</hi> for the better performing the <hi>Exerciſes of Religion;</hi> Inſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>much that the deſire ſhe began to have for ſuch a ſort of retirement, made her al<g ref="char:EOLhyphen"/>most willing to leave our <hi>Church,</hi> and go
+<pb n="vii" facs="tcp:95894:4"/> over to the <hi>Roman Communion;</hi> but that ſhe still look'd upon their <hi>Doctrine,</hi> in thoſe points wherein they differ from us, to be Falſe, and Dangerous, and to one ſo per<g ref="char:EOLhyphen"/>ſuaded as ſhe was, <hi>Deſtructive</hi> of <hi>Salvati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>Being thus prepared for their <hi>Seducti<g ref="char:EOLhyphen"/>on;</hi> they let ſlip no Opportunity to finiſh their work, and gain their Proſelyte. For which purpoſe, care was taken, first by one of Her Acquaintance, to repreſent to Her all the <hi>Popular Pretences</hi> of that <hi>Church,</hi> by which many are <hi>Prejudiced</hi> in Favour of it; and the <hi>Advantages</hi> it Had, in point of <hi>Antiquity, Unity, Univerſality, Infalli<g ref="char:EOLhyphen"/>bility,</hi> and what not, beyond Ours; and then, in the next place, to get <hi>Father Gooden</hi> brought to Her, as one that would give Her a fuller ſatisfaction in all theſe matters, if ſhe would but afford him the Op<g ref="char:EOLhyphen"/>portunity of Diſcourſing with Her. And to the End his <hi>Arguments</hi> might make the deeper Impreſſion upon Her, it was thought fit to ſet forth the Prieſt to Her; not in the Glorious <hi>Idea</hi> of the Great <hi>Maſter</hi> of <hi>De<g ref="char:EOLhyphen"/>monſtration,</hi> one who had devoured all Mr. I. Ss. <hi>Principles,</hi> and was thereby be<g ref="char:EOLhyphen"/>come ſuch a Mighty Man of Controverſy, that none of our <hi>Divines</hi> durſt Cope with him; He in whoſe hands the <hi>Dean of Pauls</hi>
+               <pb n="viii" facs="tcp:95894:5"/> himſelf was nothing, who had a certain <hi>Pa<g ref="char:EOLhyphen"/>per</hi> that in a <hi>few lines</hi> baffled all that could be ſaid or written in favour of the <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> (which was a greater thing, anſwer<g ref="char:EOLhyphen"/>ing in a <hi>few ſheets</hi> all the <hi>Books</hi> and <hi>Ser<g ref="char:EOLhyphen"/>mons</hi> that had ever been <hi>publiſh'd</hi> or <hi>preach'd</hi> againſt them); But in the humble <hi>Character</hi> of a <hi>Countrey Prieſt,</hi> a little, inconſiderable man amongſt them; and his <hi>Dreſs</hi> was accommodated to his <hi>Character,</hi> that ſo under this diſguiſe he might talk with the greater <hi>Advantage</hi> to her.</p>
+            <p>But Mr. <hi>Gooden</hi> forgetting the perſon he had put on, preſently fell into his uſual ſtrain. He began to talk of nothing but <hi>Infallibility, Antiquity, Demonſtration:</hi> That all the <hi>Fathers</hi> and <hi>Councils</hi> were on their ſide: That he had baffled our moſt conſiderable <hi>Divines,</hi> and particularly the <hi>Dean of Pauls;</hi> who had in truth all of them ſo little to ſay for themſelves when he came amongſt them, that he deſired nothing more to convince her of the <hi>Truth</hi> of their <hi>Doctrines,</hi> than that ſhe would pitch upon ſome <hi>Point,</hi> and bring one of our Men to meet him, and ſhe ſhould ſee what work he would make with him.</p>
+            <p>Such a noiſe as this from one of the lit<g ref="char:EOLhyphen"/>tle, inconſiderable <hi>Prieſts</hi> of the <hi>Church</hi> of <hi>Rome,</hi> amazed the poor <hi>Lady:</hi> and had he
+<pb n="ix" facs="tcp:95894:5"/> Prudently contented himſelf with the <hi>Boaſt</hi> of the <hi>Victories</hi> he had already gain'd, without aſpiring after the Honour of adding one more for the increaſing his <hi>Triumph,</hi> he might poſſibly have ſaved himſelf from the ſhame of that diſcovery the following <hi>Conference</hi> made of his Abilities, and have gain'd his <hi>Proſelyte.</hi> But as great Wits are too often a little inconſiderate; and, before they are aware, run themſelves into difficulties, out of which they cannot tell afterwards how to extricate themſelves; ſo it fell out with Mr. <hi>Gooden</hi> on this Occa<g ref="char:EOLhyphen"/>ſion. For the <hi>Lady</hi> preſently took hold on his Offer, and applied her ſelf to Dr. <hi>Cla<g ref="char:EOLhyphen"/>gett;</hi> and the <hi>Time,</hi> and <hi>Place,</hi> and <hi>Sub<g ref="char:EOLhyphen"/>ject</hi> being fix'd, Mr. <hi>Gooden</hi> and the <hi>Do<g ref="char:EOLhyphen"/>ctor</hi> met accordingly at <hi>Grays-Inn,</hi> Feb. <hi>21. 1686.</hi>
+            </p>
+            <p>I ſhall ſay nothing of the Menage of the <hi>Conference</hi> its ſelf, but that it was with much <hi>Noiſe</hi> on Mr. <hi>Gooden</hi>'s ſide; who in Diſcourſe let fall ſome very extraordinary things, and which might have paſs'd into the <hi>Abſtract</hi> too, had not another Perſon who was with him, and ſeem'd much more modeſt and underſtanding than himſelf, obſerved what paſs'd, and corrected his Blunders.</p>
+            <p>After the <hi>Diſpute</hi> was ended, which laſted about Four or Five Hours, a new
+<pb n="x" facs="tcp:95894:6"/> Diſcourſe aroſe about the <hi>Paper</hi> which Mr. <hi>Gooden</hi> made ſuch Boaſts of about the <hi>Town,</hi> and had ſo often repreſented to the <hi>Lady</hi> and others, as unanſwerable. He was very unwilling a great while to let the <hi>Do<g ref="char:EOLhyphen"/>ctor</hi> have a <hi>Copy</hi> of it, tho he promiſed to give him an <hi>Anſwer</hi> to it; till at laſt it was declared, That if he refuſed to let him have it, the Company would look upon it as an <hi>idle Paper,</hi> that had <hi>nothing in it,</hi> and that therefore he durſt not truſt him with it. <g ref="char:V">Ʋ</g>pon this he gave him a <hi>Copy</hi> of it, and the <hi>Doctor</hi> in purſuance of his Promiſe, the next day ſent him the following <hi>Anſwer</hi> to it.</p>
+            <p>For what concerns the <hi>Sum</hi> of the <hi>Con<g ref="char:EOLhyphen"/>ference</hi> here Publiſhed, it was taken in Writing, and ſigned by both Parties upon the place; ſo that there can be no cauſe for any one to queſtion the ſincerity of it: And tho the Abſtract be very ſhort, yet I am per<g ref="char:EOLhyphen"/>ſuaded it is enough to ſatisfie every im<g ref="char:EOLhyphen"/>partial <hi>Reader,</hi> why Mr. <hi>Gooden</hi> did not care to make any boaſts of it. And thoſe who were preſent at the Meeting, and heard all that paſs'd between them, as well as the <hi>Lady</hi> for whoſe ſake they met, were very well ſatisfied that he would not force them to publiſh the Hiſtory of it.</p>
+            <pb n="xi" facs="tcp:95894:6"/>
+            <p>But tho the <hi>Doctor</hi> was willing to let this matter die, and ſhew'd himſelf as careful of Mr. <hi>Gooden</hi>'s Reputation after the <hi>Confe<g ref="char:EOLhyphen"/>rence,</hi> as he was of the <hi>Ladies</hi> Conviction in it; yet being now by the Providence of God removed from us, I thought it a juſt debt to his Memory, to ſubjoin here a true <hi>Copy</hi> of theſe Papers, there being ſeveral of them abroad, both to prevent an imperfect <hi>Editi<g ref="char:EOLhyphen"/>on</hi> from ſome other hand; and leſt Mr. <hi>Gooden</hi> and his Friends, who were ſo ſilent in his <hi>Life</hi>-time, ſhould take occaſion to raiſe any falſe Reports of this Encounter, if they thought they could not be diſproved now he is dead. And if the great Eſteem I had for that <hi>Excellent Perſon,</hi> and moſt uſeful Inſtrument of <hi>God</hi>'s Service, in our late dangerous and critical Times, does not render me a very incompetent judg of what<g ref="char:EOLhyphen"/>ever comes from his hand, the <hi>Reader</hi> will find even in theſe ſhort <hi>Notes,</hi> enough to re<g ref="char:EOLhyphen"/>ward his Pains, and to keep him from think<g ref="char:EOLhyphen"/>ing the time loſt that he ſhall pleaſe to ſpend in the peruſal of them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:95894:7"/>
+            <pb n="1" facs="tcp:95894:7"/>
+            <head>A Private Conference BETWEEN Dr. <hi>Clagett,</hi> and Father <hi>Gooden,</hi> ABOUT Tranſubſtantiation, <hi>&amp;c.</hi>
+            </head>
+            <p>FAther <hi>Gooden</hi> Propoſed the <hi>Rule of Faith,</hi> to be the Subject of the Conference; but upon the Requeſt of the Lady, for whoſe ſake it was, the Queſtion of <hi>Tranſubstantiation</hi> was taken.</p>
+            <p>And the Father deſiring that the <hi>Doctor</hi> would be the <hi>Opponent,</hi> the <hi>Queſtion</hi> was Stated on both Sides.</p>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>That the <hi>Doctrine</hi> of <hi>Tranſubſtanti<g ref="char:EOLhyphen"/>ation</hi> is <hi>falſe Doctrine;</hi> and, That the <hi>Na<g ref="char:EOLhyphen"/>tural Body of Christ</hi> is not in the <hi>Sacra<g ref="char:EOLhyphen"/>ment,</hi> but in <hi>Heaven.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:95894:8"/>
+               <speaker>Fa.</speaker>
+               <p>That after the <hi>Words</hi> of <hi>Conſecrati<g ref="char:EOLhyphen"/>on.</hi> the <hi>true Body</hi> and <hi>Blood</hi> of <hi>Chriſt</hi> are in the <hi>Holy Euchariſt,</hi> and that the <hi>man<g ref="char:EOLhyphen"/>ner</hi> is well expreſt by <hi>Tranſubſtantiation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>This is not all the <hi>Doctrine</hi> of <hi>Tran<g ref="char:EOLhyphen"/>ſubſtantion</hi> in the <hi>Church of Rome,</hi> the <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> of the <hi>Church</hi> of <hi>Rome is this,</hi> That the <hi>Substance</hi> of the <hi>Bread</hi> is <hi>chang'd</hi> into the <hi>Subſtance of Chriſt</hi>'s <hi>Body:</hi> and the <hi>Subſtance</hi> of the <hi>Wine</hi> is chang'd into the <hi>Subſtance of Chriſt</hi>'s <hi>Blood;</hi> which <hi>Change</hi> the <hi>Church</hi> of <hi>Rome</hi> does conveniently call <hi>Tranſubſtantiation.</hi>
+               </p>
+               <p>
+                  <list type="syllogism">
+                     <item>If the <hi>Subſtance</hi> of <hi>Bread remains</hi> in the <hi>Euchariſt,</hi> then it is not <hi>chang'd</hi> into the Subſtance of <hi>Chriſt</hi>'s <hi>Body;</hi>
+                     </item>
+                     <item>But the <hi>Subſtance</hi> of <hi>Bread remains</hi> in the <hi>Euchariſt:</hi>
+                     </item>
+                     <item>
+                        <label>Therefore</label> the <hi>Subſtance</hi> of <hi>Bread</hi> is not <hi>changed</hi> into the <hi>Subſtance</hi> of <hi>Chriſt's Body.</hi>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>I deny the Minor (viz) that the <hi>ſubſtance of Bread does remain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>
+                  <list type="syllogism">
+                     <item>If <hi>Bread remains,</hi> the <hi>ſubſtance</hi> of <hi>bread remains.</hi>
+                     </item>
+                     <item>But <hi>Bread remains.</hi>
+                     </item>
+                     <item>
+                        <label>Therefore</label> the <hi>ſubſtance of bread re<g ref="char:EOLhyphen"/>mains.</hi>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:95894:8"/>
+               <speaker>Fath.</speaker>
+               <p>If the <hi>Nature</hi> of <hi>Bread remains, Bread remains;</hi> but if only the <hi>Name</hi> of <hi>Bread</hi> and <hi>Species remain,</hi> then <hi>Bread</hi> does <hi>not remain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>That <hi>Bread</hi> which is properly <hi>Na<g ref="char:EOLhyphen"/>tural Bread, remains</hi> in the <hi>Euchariſt,</hi> is proved from 1 Cor. 11.26. <hi>As often as ye eat this Bread and drink this Cup, ye do ſhew forth the Lord's death till he come.</hi> 1 Cor. 10.16. <hi>The Bread which we break, is it not the Communion of the Body of Chriſt?</hi> Now from hence we argue thus:</p>
+               <p>
+                  <list type="syllogism">
+                     <item>If that which is here ſaid to be <hi>Broken,</hi> and to be the <hi>Communion of the Body of Chriſt,</hi> be <hi>properly natural Bread,</hi> then that which is <hi>properly natural Bread,</hi> remains in the <hi>Euchariſt.</hi>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>I grant the <hi>Major.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>
+                  <list type="syllogism_continued">
+                     <item>But that which is here ſaid to be <hi>broken,</hi> and to be the <hi>Communion of the Body of Chriſt,</hi> is <hi>properly natural Bread,</hi>
+                     </item>
+                     <item>
+                        <label>Ergo:</label> 
+                        <hi>Properly natural Bread</hi> remains in the <hi>Euchariſt.</hi>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>I deny the <hi>Minor.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>The <hi>Bread</hi> of which Saint <hi>Paul</hi> ſpeaks, is <hi>Bread</hi> that may be <hi>broken,</hi> and therefore it is <hi>truely</hi> and <hi>properly natural Bread.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:95894:9"/>
+               <speaker>Fath.</speaker>
+               <p>I diſtinguiſh the <hi>Antecedent;</hi> as to the <hi>Accidents</hi> and <hi>Appearance</hi> of <hi>Bread</hi> it may be <hi>broken;</hi> as to the <hi>Nature</hi> of <hi>Bread</hi> it <hi>cannot,</hi> becauſe it is not there.</p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>This is to beg the <hi>Queſtion;</hi> for the <hi>Queſtion</hi> is, whether <hi>Bread</hi> be there or not? and the <hi>Argument</hi> to prove that it is there, is, Becauſe Saint <hi>Paul</hi> ſpeaks of <hi>Bread</hi> that might be, and was <hi>broken;</hi> but it is no ſufficient <hi>Anſwer</hi> to this, to ſay that the <hi>Accidents</hi> of <hi>Bread</hi> may be <hi>bro<g ref="char:EOLhyphen"/>ken,</hi> becauſe the <hi>Bread</hi> is not there it ſelf, which is the <hi>thing</hi> that was diſproved.</p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>The <hi>Queſtion</hi> to be proved was, that the <hi>Nature</hi> of <hi>Bread</hi> was there; there<g ref="char:EOLhyphen"/>fore it is not a begging of the <hi>Queſtion,</hi> according to the <hi>Diſtinction</hi> given, to ſay that the <hi>Nature of Bread is not there,</hi> and conſequently could not be <hi>broken:</hi> For the <hi>Bread</hi> there ſpoken of, is not meant of <hi>Natural Bread,</hi> but of <hi>Bread</hi> which <hi>came down from Heaven,</hi> and which is the <hi>fleſh of Christ,</hi> John 6.41. <hi>I am the bread which came down from Heaven.</hi> John 6.48. <hi>I am the bread of Life,</hi> Ver. 50, 51, 52, 53, 54, 55, 56, 58. From whence I infer my <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> to be good; that though the <hi>H. Euchariſt</hi> be called <hi>Bread,</hi> and <hi>broken</hi> as to the <hi>Species</hi> of <hi>Bread;</hi> yet it is not <hi>natural Bread,</hi> but only in <hi>appearance,</hi> of which
+<pb n="5" facs="tcp:95894:9"/> St. <hi>Paul</hi> ſpoke; for the ſame St. <hi>Paul,</hi> 1 Cor. 11. ſpeaking of the ſame bread, ſaith, <hi>He that eateth and drinketh unworthily, eateth and drinketh Damnation to himſelf, not diſcerning the body of our Lord.</hi> Chriſt alſo ſpeaking of the ſame bread, ſaith, <hi>Take, eat, this is my Body,</hi> Matt. 26.26. Alſo Luk. 22.19. ſpeaking of the ſame Eu<g ref="char:EOLhyphen"/>chariſt, <hi>This is my Body which is given for you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>The <hi>Anſwerer</hi> forgetting the Part of a <hi>Diſputant,</hi> has pretended to prove largely by the <hi>ſixth Chap. of</hi> St. John, and other places of <hi>Scripture,</hi> That St. <hi>Paul</hi> in the aforementioned places, did not ſpeak of <hi>Bread properly ſo called,</hi> although he ſpoke of <hi>Bread</hi> that was to <hi>be broken.</hi> All which places, when it is my turn to <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> I will conſider particularly.</p>
+               <p>But if that which is here ſaid is to go for an <hi>Anſwer,</hi> the force of it lies in this, That by the <hi>Bread</hi> which St. <hi>Paul</hi> ſpoke of, we are to underſtand the <hi>Bread</hi> which St. <hi>John</hi> ſpoke of, namely, the <hi>bread which came down from Heaven;</hi> by which the <hi>Anſwerer</hi> underſtands the <hi>Natural</hi> and <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roper fleſh of Chriſt.</hi>
+               </p>
+               <p>But that the <hi>Bread</hi> which St. <hi>Paul</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peaks of cannot be the <hi>natural fleſh of Chriſt,</hi> I prove thus;
+<pb n="6" facs="tcp:95894:10"/>
+                  <list type="syllogism">
+                     <item>The <hi>Bread</hi> which St. <hi>Paul</hi> ſpeaks of, was <hi>broken.</hi>
+                     </item>
+                     <item>But the <hi>Natural Body of Chriſt</hi> cannot <hi>be broken.</hi>
+                     </item>
+                     <item>
+                        <label>Ergo.</label> The <hi>Bread</hi> which St. <hi>Paul</hi> ſpeaks of cannot be the <hi>Natural body of Chriſt.</hi>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>As to the <hi>Species</hi> and <hi>Appearance</hi> of <hi>Bread,</hi> it was <hi>broken,</hi> I grant it; as to any <hi>Nature</hi> contained under thoſe <hi>Species of Bread,</hi> I deny it.</p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>This <hi>Diſtinction</hi> does not avoid the <hi>Argument,</hi> becauſe if the <hi>Bread</hi> in St. <hi>Paul</hi> and the <hi>Bread</hi> in St. <hi>John</hi> are really and properly the ſame, and the <hi>Bread</hi> in St. <hi>John</hi> be really and properly the <hi>fleſh of Chriſt,</hi> then what is af<g ref="char:EOLhyphen"/>firmed of the one, muſt be true of the other, and therefore if the <hi>Bread be bro<g ref="char:EOLhyphen"/>ken</hi> in St. <hi>Paul,</hi> then the <hi>Natural body of Chriſt</hi> muſt be <hi>broken</hi> too; which cannot be.</p>
+               <p>I add further, That if by <hi>breaking of Bread</hi> St. <hi>Paul</hi> means <hi>breaking</hi> the <hi>Acci<g ref="char:EOLhyphen"/>dents of Bread</hi> only; and if the <hi>Bread</hi> that is <hi>broken</hi> be <hi>really</hi> that which is ſpoken of in St. <hi>John</hi> as aforeſaid; it follows alſo that the <hi>Accidents of Bread</hi> are <hi>properly the body of Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>That which St. <hi>Paul</hi> calls <hi>Bread,</hi> had in it both the <hi>Accidents</hi> of <hi>Bread</hi> and the <hi>ſubſtance</hi> of <hi>Chriſt's body.</hi> As to the
+<pb n="7" facs="tcp:95894:10"/> 
+                  <hi>Accidents</hi> of <hi>Bread,</hi> it might be <hi>broken;</hi> as to the <hi>ſubſtance</hi> of <hi>Chriſt's body</hi> which is mentioned in St. <hi>John,</hi> it is not <hi>broken,</hi> unleſs you mean as <hi>Chriſt's Body</hi> was bro<g ref="char:EOLhyphen"/>ken upon the <hi>Croſs.</hi>
+               </p>
+               <p>
+                  <q>And if the bread which is broken be really that which is ſpoken of in <hi>St. John</hi> as aforeſaid, both as to the Accidents and nature of Bread, I grant, that the Acci<g ref="char:EOLhyphen"/>dents of Bread would be the Body of Chriſt; and if it be not the ſame, both as to the Nature and Accidents, I deny it.</q>
+               </p>
+               <p>This I profeſs not to underſtand.</p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>As to the <hi>Doctor</hi>'s Argument it includes a <hi>Sophiſm,</hi> as will appear when brought into form, becauſe it involves 4 <hi>Terms;</hi> becauſe he <hi>ſuppoſes</hi> in one <hi>Pro<g ref="char:EOLhyphen"/>poſition</hi> for the <hi>Accidents</hi> of <hi>Bread</hi> and in the other for the <hi>Nature.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>In the <hi>Argument</hi> I uſed, I went upon this <hi>Suppoſition,</hi> That the <hi>Accidents</hi> of <hi>Bread</hi> were onely to be underſtood, as the <hi>Anſwerer</hi> ſuppoſes, and therefore I have not confounded the <hi>Nature</hi> and the <hi>Ac<g ref="char:EOLhyphen"/>cidents</hi> of <hi>Bread</hi> together. Beſides, the Diſtinction between the <hi>Nature</hi> of <hi>Bread</hi> and the <hi>Accidents</hi> of <hi>Bread,</hi> was not to be remembred any more by the <hi>Anſwerer,</hi> becauſe I proceed upon his <hi>Suppoſition,</hi> That the <hi>Accidents</hi> onely are <hi>broken.</hi>
+               </p>
+               <pb n="8" facs="tcp:95894:11"/>
+               <p>Now if St. <hi>Paul</hi> ſpeaks of nothing but what is <hi>broken,</hi> and <hi>Accidents</hi> onely are <hi>broken,</hi> and yet if he ſpeaks of the <hi>very fleſh of Chriſt</hi> too, then the <hi>Accidents</hi> of the <hi>Bread</hi> are the <hi>very fleſh of Chriſt.</hi>
+               </p>
+               <p>And whereas the <hi>Anſwerer</hi> by his laſt <hi>Anſwer,</hi> means the <hi>Nature of Chriſt</hi>'s <hi>Body,</hi> as he ſays, I underſtood him of the Nature of Bread. And now once more I deſire him to ſhew me where the four <hi>Terms</hi> are.</p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>The <hi>Text</hi> of St. <hi>Paul,</hi> the Dr. takes for his Medium, and argues from a dou<g ref="char:EOLhyphen"/>ble <hi>Suppoſition,</hi> as firſt, taking it for the <hi>Accidents of Bread</hi> which were <hi>broken,</hi> and afterwards for the <hi>ſubſtance of Chriſt's Body</hi> under the <hi>Accidents,</hi> in which latter ſenſe it ſignifies the ſame that is meant by our Saviour in St. <hi>John.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>I obſerve the <hi>Anſwerer</hi> will allow nothing to be <hi>broken</hi> but <hi>Accidents;</hi> I ob<g ref="char:EOLhyphen"/>ſerve alſo, that nothing is ſaid to be the <hi>Body of Chriſt,</hi> or the <hi>Communion of the Body of Chriſt,</hi> but what is <hi>broken;</hi> If therefore nothing is <hi>broken</hi> but <hi>Accidents,</hi> then <hi>Accidents</hi> are either, according to the Anſwerer's long proof, the <hi>very Body of Chriſt;</hi> or according to the <hi>Apoſtle,</hi> the <hi>Communion of the Body of Chriſt.</hi>
+               </p>
+               <p>But neither are the <hi>Accidents</hi> of <hi>Bread,</hi> the <hi>Body of Chriſt,</hi> nor the <hi>Communion of the
+<pb n="9" facs="tcp:95894:11"/> Body of Chriſt.</hi> And this, I ſay, is not an<g ref="char:EOLhyphen"/>ſwered, and believe will not be anſwered by any man that maintains, that St. <hi>Paul</hi> does not here ſpeak <hi>properly of Bread.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fath.</speaker>
+               <p>All along in my Diſcourſe I have ſuppoſed, that when St. <hi>Paul</hi> ſpeaks of this <hi>bread,</hi> he ſpoke of the <hi>H. Euchariſt,</hi> in which were contained both the <hi>Accidents</hi> of <hi>Bread,</hi> and the <hi>true body of Chriſt.</hi> How the <hi>Dr.</hi> has diſproved this <hi>Doctrine</hi> ſo clearly as to juſtifie the <hi>Reformation,</hi> I un<g ref="char:EOLhyphen"/>derſtand not; Becauſe, I conceive no pri<g ref="char:EOLhyphen"/>vate Perſons, or particular Church, ought to pretend a <hi>Reformation,</hi> without clear evidence; whether the <hi>Dr.</hi> has given ſuch, I leave to the conſideration of the <hi>Readers.</hi> And whether, having broken off from the great body of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church,</hi> and its teſtimony, he can poſſi<g ref="char:EOLhyphen"/>bly have any <hi>certain Rule to arrive at Chri<g ref="char:EOLhyphen"/>ſtian Faith?</hi> If <hi>Scripture</hi> be pretended, in<g ref="char:EOLhyphen"/>terpreted by a <hi>fallible Authority,</hi> how <hi>Certainty</hi> can be obtained, or why a <hi>Soci<g ref="char:EOLhyphen"/>nian,</hi> following <hi>Scripture</hi> for his <hi>Rule of Faith,</hi> is not to be believed as well as any other <hi>Reformer</hi> following the ſame <hi>Rule,</hi> I ſee not.</p>
+            </sp>
+            <closer>
+               <signed>Signed <list>
+                     <item>
+                        <hi>W. Clagett.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Gooden.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="10" facs="tcp:95894:12"/>
+            <head>Dr. <hi>CLAGETT's</hi> Anſwer TO A PAPER Delivered to Him by Father <hi>GOODEN.</hi>
+            </head>
+            <div type="paper">
+               <head>The Paper</head>
+               <p>ARticles of Chriſtian Faith are <hi>Truths; Truths</hi> are <hi>Impoſſible</hi> to be <hi>Falſe;</hi> Therefore Arti<g ref="char:EOLhyphen"/>cles of Chriſtian Faith are <hi>Impoſſible</hi> to be <hi>Falſe;</hi> Therefore thoſe who obtain Articles of the Chriſtian Faith, muſt have ſome <hi>Rule</hi> to Acquire them by, which cannot deceive them: To a <hi>Parliamentary Prote<g ref="char:EOLhyphen"/>ſtant,</hi> the Ancient <hi>Fathers</hi> cannot be ſuch a <hi>Rule,</hi> becauſe they are accounted <hi>Fallible;</hi> Nor <hi>Councels,</hi> becauſe they alſo are accounted <hi>Fallible;</hi> Nor <hi>Scri<g ref="char:EOLhyphen"/>ptures ſenſed</hi> by a <hi>Fallible Authority,</hi> becauſe <hi>all ſuch Interpretations may be Falſe;</hi> And therefore <hi>Faith</hi> cannot be <hi>Obtained</hi> by any ſuch means. For that which is <hi>Doubtfull</hi> can only Create <hi>Opinion,</hi> which is alſo <hi>Doubtful;</hi> And <hi>He that doubts in Faith,</hi> (the <hi>Apoſtle</hi> ſays) <hi>is Infidelis;</hi> And a Company of <hi>Doubters</hi> are not a <hi>Church</hi> of <hi>Faith<g ref="char:EOLhyphen"/>ful,</hi> but a <hi>Society</hi> of ſuch as the <hi>Apoſtle</hi> calls <hi>Infi<g ref="char:EOLhyphen"/>dels.</hi>
+               </p>
+               <closer>
+                  <signed>Signed <hi>Peter Gooden.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="answer_proper">
+               <pb n="11" facs="tcp:95894:12"/>
+               <head>The Anſwer.</head>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>Articles of Chriſtian Faith are Truths.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> The Deſign of the Diſputer is to prove, that we are <hi>Doubters</hi> and therefore <hi>Infidels;</hi> But never did any man begin a buſineſs more un<g ref="char:EOLhyphen"/>luckily, for at the very firſt daſh he takes it for granted, that we do <hi>undoubtedly believe Articles of Chriſtian Faith to be Truths;</hi> for otherwiſe he ought to have proved that they are ſo. But there is another Misfortune he is faln into, no leſs than that; for his Argument to prove that we muſt needs be <hi>Doubters,</hi> is, that we want an <hi>Infalli<g ref="char:EOLhyphen"/>ble Rule.</hi> Now if he is ſure that we want an <hi>Infalli<g ref="char:EOLhyphen"/>ble Rule,</hi> and that without ſuch a <hi>Rule</hi> there can be no Faith, I am ſure he does notoriouſly con<g ref="char:EOLhyphen"/>tradict himſelf, by ſuppoſing that we b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieve all <hi>Articles of Chriſtian Faith to be Truths,</hi> though we have no ſuch <hi>Rule.</hi> This is a very hopeful <hi>Paper,</hi> and like to make wiſe <hi>Converts,</hi> which ends in making us <hi>Infidels,</hi> and begins to prove it by an Argument, that manifeſtly ſuppoſes Us to be <hi>Believers;</hi> which alſo pretends that we have no <hi>Infallible Rule,</hi> and therefore can be ſure of <hi>no Point of Faith;</hi> but yet manifeſtly ſuppoſes Us to be <hi>Aſſured</hi> of <hi>Some</hi> without it; which ſhews the <hi>Paper</hi> to be a trifling <hi>Paper,</hi> and worth no more Conſideration. But becauſe the Diſpu<g ref="char:EOLhyphen"/>ter is ſaid to boaſt ſo much of the Argument Contained in it, I will go on with every Clauſe of it to Convince him, (if he does not already know it,) that there is not a Line in it, but is either falſe, or nothing to the purpoſe.</p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>Truths are Impoſſible to be Falſe.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> By <hi>Truths,</hi> the <hi>Diſputer</hi> means, the
+<pb n="12" facs="tcp:95894:13"/> 
+                  <hi>Truth of Things,</hi> or of <hi>Propoſitions,</hi> and therefore this is a vain and fulſome ſaying, which does not Advance his Reaſoning one jot farther than it was before: For this is no more than to ſay, <hi>That which is true, is true,</hi> and <hi>it cannot poſſibly be, but truths muſt be truths.</hi> I think he applies him<g ref="char:EOLhyphen"/>ſelf to us, as if we wanted not only <hi>Chriſtian Faith,</hi> but <hi>Common ſence.</hi>
+               </p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>Therefore Articles of Chriſtian Faith are Im<g ref="char:EOLhyphen"/>poſſible to be Falſe.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> There is no doubt of this, ſuppoſing that they are Truths. So that the Argument he begins with being put into the right order, and into other words, is this; It is <hi>Impoſſible but truths muſt be truths,</hi> but <hi>Articles of Chriſtian Faith are Truths;</hi> Therefore it is <hi>Impoſſible but they muſt be Truths.</hi> The Ancient <hi>Fathers</hi> had made wiſe work with <hi>Chriſtianity,</hi> if they had gone this way to work to Convert <hi>Infidels.</hi>
+               </p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>Therefore thoſe who obtain the Articles of the Chriſtian Faith, muſt have ſome Rule to acquire them by, which cannot deceive them.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> This is an obſcure ſaying, and I muſt make the beſt of it. By <hi>obtaining Articles of the Chriſtian Faith,</hi> I ſuppoſe he means <hi>believing them,</hi> and by a <hi>Rule by which to acquire them,</hi> He muſt underſtand a <hi>Rule,</hi> or means whereby to know what the <hi>Articles</hi> of the <hi>Chriſtian Faith are;</hi> and then his meaning is, That thoſe who <hi>believe</hi> the <hi>Articles of the Chriſtian Faith,</hi> muſt be provided of ſome ſuch <hi>Rule</hi> or Means, to know what they are, as cannot deceive them. Now whether this be in it ſelf true or falſe, it does not at all follow from what he had laid down before; For though the Truth of Things or Propoſitions is
+<pb n="13" facs="tcp:95894:13"/> ſo ſure, that (as he wiſely ſays) 'tis Impoſſi<g ref="char:EOLhyphen"/>ble they ſhould be falſe, yet it does by no means follow, that the <hi>Reaſons</hi> upon which I believe theſe things muſt neceſſarily be as ſure as the Truth of the Things themſelves. And this I make no doubt the Diſputer was well aware of; But becauſe I am ſenſible who they are whom he deſigns to pervert by this <hi>Paper,</hi> and for whoſe ſake I Anſwer it, I will explain this mat<g ref="char:EOLhyphen"/>ter by an Inſtance that will bring it down to all Capacities: If there was ſuch a man as <hi>Henry</hi> the 8th, It is certainly <hi>Impoſſible</hi> that there ſhould be no ſuch man; but my <hi>Belief</hi> that there was ſuch a <hi>Man,</hi> is grounded upon ſuch <hi>Reaſons</hi> as do not imply an abſolute Impoſſibility of the Contrary, becauſe it is grounded upon the <hi>Teſtimony</hi> of <hi>Fallible men:</hi> And yet I ſhould be very little bet<g ref="char:EOLhyphen"/>ter then a mad-man if I ſhould entertain the leaſt doubt that there was ſuch a man: which plainly ſhews, that I may have ſufficient Reaſon to be<g ref="char:EOLhyphen"/>lieve a thing without any Evidence of the Impoſ<g ref="char:EOLhyphen"/>ſibility of the contrary; and this is enough to overthrow his <hi>Conſequence.</hi> I ſhall now inquire what truth there is in the <hi>Concluſion</hi> it ſelf; To which end I obſerve, That there are two things which may be underſtood by thoſe words, <hi>can<g ref="char:EOLhyphen"/>not deceive them,</hi> either firſt, that the <hi>Rule</hi> it ſelf is ſo plain and certain, that no man who uſes it can be deceived by the <hi>Rule;</hi> or ſecondly, that 'tis Impoſſible any man ſhould be miſtaken in the <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of it. If he means the former, then I ſhall ſhew him preſently, that we have ſuch a <hi>Rule</hi> as he ſpeaks of, and that he hath ſaid nothing to make us aſhamed of it. If he means the lat<g ref="char:EOLhyphen"/>ter, then I ſay it is abſolutely falſe, That thoſe
+<pb n="14" facs="tcp:95894:14"/> who without doubting <hi>believe</hi> the <hi>Articles of the Chriſtian Faith,</hi> muſt have ſuch a <hi>Rule</hi> to know what they are, as that they cannot poſſibly mi<g ref="char:EOLhyphen"/>ſtake in the <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of it. To make which plain to every bodies underſtanding, I ſhall add ano<g ref="char:EOLhyphen"/>ther Inſtance eaſy to be Applyed; If a man skil<g ref="char:EOLhyphen"/>ful in <hi>Arithmetick</hi> hath a great many <hi>Numbers</hi> be<g ref="char:EOLhyphen"/>fore him, and deſires to know what Sum they make when they are put together; he has the <hi>Rule</hi> of <hi>Addition</hi> to do it by, which <hi>Rule</hi> cannot deceive him. Now there are theſe two things to be obſerved farther, which I think the <hi>Diſpu<g ref="char:EOLhyphen"/>ter</hi> himſelf will not deny; firſt, that it is in the Nature of the thing Poſſible, that this man may be miſtaken every time that he puts theſe ſeve<g ref="char:EOLhyphen"/>ral <hi>Numbers</hi> together, to bring them all into one <hi>Sum;</hi> but ſecondly, that notwithſtanding this <hi>Poſſibility</hi> of being miſtaken, yet after he has tryed it over and over again, he may be ſure without the leaſt doubt that he has done his work right. Even ſo we may have a <hi>Rule</hi> of <hi>Faith</hi> that cannot deceive us, and though it is not <hi>Abſolutely Impoſſible,</hi> that we ſhould be mi<g ref="char:EOLhyphen"/>ſtaken in the <hi>uſe</hi> of it; yet we may for all that be Aſſured, and believe without the leaſt doubt<g ref="char:EOLhyphen"/>ing, that we have learn'd what the true Faith is by that <hi>Rule;</hi> For all the World knows, that it is no ſufficient Reaſon to <hi>Doubt</hi> of any thing, that the Contrary is barely <hi>Poſſible.</hi>
+               </p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>To a Parliamentary Proteſtant, the Antient Fathers can't be ſuch a Rule, becauſe they are Accoun<g ref="char:EOLhyphen"/>ted fallible.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> We never ſaid they were ſuch a <hi>Rule.</hi> This therefore is Impertinent.</p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>Nor Councels, becauſe they alſo are accounted fallible.</hi>
+                  </p>
+               </q>
+               <pb n="15" facs="tcp:95894:14"/>
+               <p>
+                  <hi>Anſ.</hi> This is Impertinent alſo: for we never ſaid they were our <hi>Rule of Faith.</hi> But we have better Reaſons to give, why <hi>Fathers and Cou<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ils</hi> cannot be our <hi>Rule of Faith,</hi> than this that the Diſputer has made for us. And one is this, That we cannot make them the <hi>Rule</hi> of our <hi>Faith,</hi> but by ſo doing, we muſt depart from the <hi>Primitive Fathers,</hi> and the <hi>ancient Councils;</hi> in as much as all agree, That the <hi>Holy Scriptures</hi> are the <hi>Rule of Faith,</hi> and they made it theirs.</p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>Nor Scriptures ſenced by a fallible Authori<g ref="char:EOLhyphen"/>ty, becauſe all ſuch Interpretations may be falſe.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> This is the Place, where I ſhall tell the Diſputer, what we believe, and why we believe it. And when I have done, I ſhall conſider whe<g ref="char:EOLhyphen"/>ther he hath ſaid any thing in this clauſe, to ſhake our Aſſurance. We firmly believe all the <hi>Articles of the Creed,</hi> into the Profeſſion whereof, we have been <hi>Baptized.</hi> We moreover believe all other <hi>Doctrine,</hi> that is <hi>Revealed in Holy Scriptures.</hi>
+               </p>
+               <p>The <hi>Grounds</hi> of this our Faith, are theſe, That in the Holy <hi>Scriptures</hi> are Recorded, thoſe Teſti<g ref="char:EOLhyphen"/>monies of <hi>Divine Revelation,</hi> by which the Do<g ref="char:EOLhyphen"/>ctrines therein contained, are confirmed. That theſe Teſtimonies were too notorious and Pub<g ref="char:EOLhyphen"/>lick to be gainſaid; in ſo much that the Doctrine, built upon them, could not be overthrown by the Powers of the world engaged againſt it. That the holy Books were written by the <hi>Inſpired Preachers</hi> of that Doctrine, which they contain; And that for this we have the <hi>Teſtimony of <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal and uncontroulable Tradition,</hi> which is a thing credible of it ſelf. This is the Sum of that <hi>Ex<g ref="char:EOLhyphen"/>ternal Evidence,</hi> upon which our <hi>Faith</hi> is ground<g ref="char:EOLhyphen"/>ed. In aſſigning of which, I do by no means
+<pb n="16" facs="tcp:95894:15"/> exclude that <hi>Internal Evidence,</hi> that ariſes from the Excellent Goodneſs of the Doctrines them<g ref="char:EOLhyphen"/>ſelves, which ſhews them to be worthy of God.</p>
+               <p>Now whereas this Diſputer ſays, That theſe <hi>Scriptures</hi> cannot be an <hi>Infallible Rule</hi> to us, be<g ref="char:EOLhyphen"/>cauſe they are <hi>ſenſed by a fallible Authority,</hi> that is, becauſe we, who are <hi>fallible,</hi> underſtand them as well as we can.</p>
+               <p>I anſwer, That no man needs to be <hi>Infallible,</hi> in order to the underſtanding of <hi>plain Scripture.</hi> I who do not pretend to <hi>Infallibility,</hi> am yet <hi>cer<g ref="char:EOLhyphen"/>tain,</hi> which is enough for me, That I do find the <hi>Articles</hi> of the <hi>Creed</hi> in the Scriptures, and many other Doctrines beſides, which I do underſtand. I am ſure that I know what theſe words of St. <hi>John</hi> ſignifie,<note place="margin">1 John 2.25. And Chap. 5.3.</note> 
+                  <hi>This is the Promiſe that he hath promiſed us, even eternal life.</hi> And, <hi>this is the love of God, that we keep his Commandments;</hi> and the like. The <hi>Antient Fathers</hi> thought the <hi>Scriptures</hi> to be ſo plain, that they argued out of them, without pretending to an <hi>Infallible Authority</hi> of <hi>Interpreta<g ref="char:EOLhyphen"/>tion,</hi> as I will ſhew this Diſputer when he pleaſes. If nothing leſs than <hi>Infallibility</hi> will ſerve to un<g ref="char:EOLhyphen"/>derſtand, or as he ſays, <hi>to ſenſe</hi> words, why does this Diſputer put into my hands, this <hi>Paper</hi> of his; which is none of the plaineſt neither? I am ſure he does not take me to be <hi>Infallible,</hi> and yet I am confident he would be angry, if I ſhould ſay his <hi>Paper</hi> was not to be underſtood without an <hi>Infallible Interpreter;</hi> let him anſwer this if he can.</p>
+               <p>The Reaſon he gives, why <hi>Scripture ſenſed by a fallible Authority,</hi> cannot be the <hi>Rule of Faith,</hi> is; becauſe, all <hi>ſuch Interpretations may be falſe,</hi>
+                  <pb n="17" facs="tcp:95894:15"/> That is to ſay, becauſe, there is a bare <hi>Poſſibility</hi> of any <hi>fallible</hi> man's miſtaking the ſenſe of plain Texts. Which kind of Reaſoning makes im<g ref="char:EOLhyphen"/>poſſible, that every man ſhould come to be a Believer, unleſs himſelf be firſt Infallible. And this I ſhall Demonſtrate ſo plainly, that no man who has any ſhare of Underſtanding and mode<g ref="char:EOLhyphen"/>ſty ſhall be able to deny it.</p>
+               <p>There is no poſſible way, for any ſort of <hi>Chriſtians,</hi> to make known either the <hi>Articles or Reaſons of Faith,</hi> to thoſe that are yet Ignorant of them, but by words, or ſentences, written or ſpoken. He who hears or reads the words and Sen<g ref="char:EOLhyphen"/>tences, cannot tell either what is to <hi>believe,</hi> or why he ſhould <hi>believe,</hi> till he underſtands or (in the Diſputers Phraſe) till he <hi>Senſes thoſe words and Sentences;</hi> but as yet his <hi>Authority</hi> is but fallible; and words <hi>ſenſed by a Fallible Authority</hi> can never give a man <hi>certainty,</hi> either of the <hi>Rule, or of the Reaſon of his Faith;</hi> If this Diſputer be in the Right, therefore 'tis impoſſible to make him a <hi>Believer,</hi> unleſs you can make him <hi>Infallible</hi> firſt, that it may not be <hi>Poſſible</hi> for him, to be miſta<g ref="char:EOLhyphen"/>ken, in <hi>Senſing</hi> the words which he hears or reads. And thus farewell to all Advantage that any man can have by the <hi>Infallibility</hi> of <hi>Popes</hi> and <hi>Councils,</hi> or <hi>Oral Tradition,</hi> as well as by the <hi>Scriptures;</hi> Nay, and to all Poſſible means of arriving to <hi>certainty</hi> in any matter of Faith, un<g ref="char:EOLhyphen"/>leſs every body be <hi>Infallible</hi> firſt; ſo that upon ſuppoſition that God would have all men to be ſaved, and therefore to believe; it inavoidably fol<g ref="char:EOLhyphen"/>lows from the wild Reaſoning of this man, that God has made every Man <hi>Infallible.</hi> But if it be evident, that men are fallible Creatures, then
+<pb n="18" facs="tcp:95894:16"/> this Diſputer has Advanced a Principle the moſt deſtructive to all <hi>certainty of Faith,</hi> that ever was heard of in the world. But the comfort is, that 'tis ſo very abſurd that no body, well in his wits, can be miſled by it.</p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>And therefore Faith cannot be obtain'd by any ſuch means.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> Which is as much as to ſay, that Faith cannot be obtain'd, till a man have the gift of <hi>Infallibility;</hi> And if every man has it before he can be taught to any purpoſe, what need can there be of an <hi>Infallible Interpreter</hi> to teach him? But, as I obſerved before; 'tis impoſſible to make <hi>Believers</hi> of thoſe that are not <hi>Infallible,</hi> un<g ref="char:EOLhyphen"/>leſs the Diſputer, or his <hi>Church,</hi> has a way to make known the Doctrines and Reaſons of Chriſtian Faith, without words.</p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>For that which is doubtful can only create opinion, which is alſo doubtful.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> Therefore ſince all words are doubtful to him that has but a <hi>fallible Authority</hi> to <hi>ſenſe</hi> them, as no man has more, before he believes; 'tis impoſſible for the Diſputers Church to create any thing more than opinion, <hi>(which is alſo doubt<g ref="char:EOLhyphen"/>ful)</hi> in thoſe whom ſhe teaches, unleſs as I have already ſaid, ſhe can make them <hi>Infallible</hi> firſt, and teach them afterwards. And even then there would be no need of teaching them at all, becauſe they are now <hi>Infallible</hi> themſelves. Of all the <hi>Papers</hi> that ever I read, I never met with any thing more abſurd, and contradictious than the Reaſoning of this; In which the Diſputer, out of a vehement deſire to overthrow our Faith, and the Grounds of it, has laid down <hi>Principles</hi> that do effectually overthrow all ways of making
+<pb n="19" facs="tcp:95894:16"/> men ſure of any thing; and in particular, the uſe of thoſe very methods by which his own Church pretends to lead men to Faith.</p>
+               <q>
+                  <bibl>Pap.</bibl>
+                  <p>
+                     <hi>And he that doubts in Faith (the Apoſtle ſaith) is</hi> Infidelis, <hi>and a company of Doubters are not a Church of</hi> Faithful, <hi>but a ſociety of ſuch as the Apoſtle calls</hi> Infidels.</p>
+               </q>
+               <p>
+                  <hi>Anſ.</hi> What <hi>Apoſtle</hi> ſays this? if the <hi>Diſputer</hi> re<g ref="char:EOLhyphen"/>fers to <hi>Rom.</hi> 14.23. as I think he does, he has ſhewn his skill in the <hi>Interpretation</hi> of <hi>Scripture,</hi> to be equal to his maſtery in <hi>Reaſoning.</hi> If in the <hi>Infallible Church</hi> they can <hi>Interpret Scripture</hi> no better than thus, give me the honeſty and in<g ref="char:EOLhyphen"/>duſtry of a <hi>Fallible Church,</hi> before it.</p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>AND now after all, this <hi>Paper</hi> is as abſurd in the deſign, as it is in the management; for the buſineſs of it is to prove, That <hi>Proteſtants</hi> have no Faith, but are <hi>Infidels;</hi> and that by this Argument they are and muſt be <hi>doubters:</hi> Now whether I <hi>doubt,</hi> or <hi>do not doubt,</hi> is a <hi>Queſtion</hi> con<g ref="char:EOLhyphen"/>cerning a <hi>matter of Fact</hi> that I have more reaſon to know the truth of, than the Diſputer can poſſibly have; and if I know that I <hi>do not doubt,</hi> and he can yet prove that I <hi>do doubt,</hi> he is an ex<g ref="char:EOLhyphen"/>traordinary man indeed. For then I am ſure he can prove, That <hi>Truth</hi> not onely may be, but is falſe, which perhaps ſuch a man as he can Re<g ref="char:EOLhyphen"/>concile with what he ſaid at firſt, <hi>That truths are impoſſible to be falſe.</hi>
+               </p>
+               <p>And this alone had been a ſufficient <hi>Anſwer</hi> to his <hi>Paper;</hi> for nothing can be more frivolous,
+<pb n="20" facs="tcp:95894:17"/> than to go about to prove to a man by fine Rea<g ref="char:EOLhyphen"/>ſoning, that he does <hi>doubt</hi> of a thing, when he is as ſure, that he does <hi>not doubt</hi> of it, as he can be of any thing in the World. But the deſign of this <hi>Paper</hi> ſeems to be as <hi>Impious,</hi> as 'tis <hi>Abſurd.</hi> And that is, to bring weak Perſons to <hi>Infidelity</hi> firſt, that they may afterwards be ſetled upon <hi>Romiſh Grounds.</hi> I do acknowledg 'tis a very proper way, to bring us over to the <hi>Church of Rome,</hi> to make us <hi>Infidels</hi> firſt; But this they will not find ſo eaſy a matter; for we truſt, that we are not of thoſe <hi>who draw back to Perdi<g ref="char:EOLhyphen"/>tion, but of thoſe that believe to the ſaving the Soul.</hi>
+               </p>
+               <p>I have omitted nothing in the whole Paper, but to take notice of that little and mean Reflection, in calling the <hi>Proteſtant,</hi> a <hi>Parliamentary Proteſtant.</hi> I have told this <hi>Diſputer,</hi> the <hi>Reaſon</hi> and <hi>Ground</hi> of our <hi>Faith:</hi> If we moreover are Protected in the <hi>Profeſſion</hi> of it, by the <hi>Laws</hi> of the <hi>Land,</hi> I ſuppoſe 'tis no more than what he would deſire, for the Profeſſion of <hi>Popery;</hi> and he would think never the worſe of himſelf, for being a <hi>Parlia<g ref="char:EOLhyphen"/>mentary Papiſt.</hi>
+               </p>
+               <p>Thus I have Anſwered this <hi>Paper</hi> through e<g ref="char:EOLhyphen"/>very clauſe of it. And I am confident deſtroy'd all that little Appearance of Reaſoning that it made. Let the <hi>Diſputer</hi> build it up again if he can, I promiſe him, by God's Grace, that I'le pull it down again.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
